@@ -9,7 +9,7 @@ Meu nome é Vinícius Knabben, tenho 16 anos, estou estudando no sesi senai de S
 
 [![vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=knabben16)](https://github.com/Knabben16/github-readme-stats)
 
-estou apredendo:
+estou apredendo 💻:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40"/>

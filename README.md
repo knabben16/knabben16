@@ -12,8 +12,6 @@ Eu tenho certificado em Lógica de programação no curso Alura, sei um pouco de
   Meu G-mail do colégio: vinicius_andrade3@estudante.sesisenai.org.br
   
 
-[![vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=knabben16)](https://github.com/Knabben16/github-readme-stats)
-
 estou apredendo 💻:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="40"/>

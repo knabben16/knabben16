@@ -2,7 +2,7 @@
 
 Meu nome é Vinícius Knabben, tenho 16 anos, estou estudando no sesi senai de São José 👨‍🎓.
   
-  Eu tenho certificado em Lógica de programação, sei um pouco de node.js, e estou estudando no sesi senai html, javascript, sqlite, e figma 👨‍💻.
+  Eu tenho certificado em Lógica de programação, sei um pouco de node.js, e estou estudando no sesi senai html, javascript, sqlite, figma, e visual studio code 👨‍💻.
   
   Meu G-mail do colégio: vinicius_andrade3@estudante.sesisenai.org.br
   

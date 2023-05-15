@@ -6,9 +6,8 @@ Meu nome é Vinícius Knabben, tenho 16 anos, estou estudando no sesi senai de S
   
   Meu G-mail do colégio: vinicius_andrade3@estudante.sesisenai.org.br
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Knabben16repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=knabben16)](https://github.com/anuraghazra/github-readme-stats)
+[![vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=knabben16)](https://github.com/Knabben16/github-readme-stats)
 
 estou apredendo:
 

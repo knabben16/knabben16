@@ -24,4 +24,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" width="40"/>
 
-![](https://knabben16.com/ghpvc/?knabben16=your-github-knabben16)
+![](https://komarev.com/ghpvc/?username=your-github-knabben16)

@@ -1,5 +1,7 @@
 # knabben16
 
+![](https://komarev.com/ghpvc/?username=your-github-knabben16)
+
 🎮Meu nome é Vinícius Knabben
 
 🎈Tenho 16 anos
@@ -23,5 +25,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" width="40"/>
-
-![](https://komarev.com/ghpvc/?username=your-github-knabben16)

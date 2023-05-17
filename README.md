@@ -12,7 +12,7 @@
 
 👨‍🎓Estou estudando no sesi senai de São José.
 
-👨‍💻Eu tenho certificado em Lógica de programação no curso Alura: 
+👨‍💻Eu tenho certificado no curso Alura: 
 
 https://cursos.alura.com.br/certificate/1496e0a7-eba3-4d39-a205-89b01f80461a
 

@@ -4,17 +4,19 @@
 
 🎮Meu nome é Vinícius Knabben
 
-🎈Tenho 16 anos
+🎈Tenho 16 anos.
 
-🎈Nasci dia 27 de setembro de 2006
+🎈Nasci dia 27 de setembro de 2006.
+
+🎈Nasci em Florianóplis, Santa Catarina.
 
 👨‍🎓Estou estudando no sesi senai de São José.
 
-👨‍💻Eu tenho certificado em Lógica de programação no curso Alura, sei um pouco de node.js, e estou cursundo no Alura JavaScript
+👨‍💻Eu tenho certificado em Lógica de programação no curso Alura, sei um pouco de node.js, e estou cursundo no Alura JavaScript.
 
 👨‍💻Estou aprendendo no no sesi senai: html, javascript, sqlite, figma, e visual studio code.
 
-🎓inglês básico
+🎓inglês básico.
 
 💾Meu G-mail do colégio: vinicius_andrade3@estudante.sesisenai.org.br
 

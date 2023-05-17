@@ -10,7 +10,9 @@
 
 👨‍🎓Estou estudando no sesi senai de São José.
 
-👨‍💻Eu tenho certificado em Lógica de programação no curso Alura, sei um pouco de node.js, e estou aprendendo no no sesi senai: html, javascript, sqlite, figma, e visual studio code.
+👨‍💻Eu tenho certificado em Lógica de programação no curso Alura, sei um pouco de node.js, e estou cursundo no Alura JavaScript
+
+👨‍💻Estou aprendendo no no sesi senai: html, javascript, sqlite, figma, e visual studio code.
 
 🎓inglês básico
 

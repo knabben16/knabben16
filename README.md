@@ -24,10 +24,6 @@ https://cursos.alura.com.br/certificate/15e1d985-b45a-4a91-a172-fe95cb711e40
 
 https://cursos.alura.com.br/certificate/07d92170-0d46-4103-bb95-84b02e97020b
 
-👨‍💻Sei um pouco de node.js, e estou cursundo no Alura JavaScript.
-
-👨‍💻Estou aprendendo no no sesi senai: html, javascript, sqlite, figma, e visual studio code.
-
 📝minha rede social:
 
 https://www.instagram.com/vinicius_knabben14/

@@ -12,7 +12,14 @@
 
 👨‍🎓Estou estudando no sesi senai de São José.
 
-👨‍💻Eu tenho certificado em Lógica de programação no curso Alura, sei um pouco de node.js, e estou cursundo no Alura JavaScript.
+👨‍💻Eu tenho certificado em Lógica de programação no curso Alura: 
+https://cursos.alura.com.br/certificate/1496e0a7-eba3-4d39-a205-89b01f80461a
+https://cursos.alura.com.br/certificate/56810984-ca34-4b7e-a62b-e02488ad80b6
+https://cursos.alura.com.br/certificate/7f684164-7c85-4605-b1bb-ab58e282fe36
+https://cursos.alura.com.br/certificate/15e1d985-b45a-4a91-a172-fe95cb711e40
+https://cursos.alura.com.br/certificate/07d92170-0d46-4103-bb95-84b02e97020b
+
+👨‍💻Sei um pouco de node.js, e estou cursundo no Alura JavaScript.
 
 👨‍💻Estou aprendendo no no sesi senai: html, javascript, sqlite, figma, e visual studio code.
 

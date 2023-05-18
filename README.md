@@ -10,7 +10,7 @@
 
 🎈Nasci em Florianóplis, Santa Catarina.
 
-👨‍🎓Estou estudando no sesi senai de São José.
+👨‍🎓Estou estudando no sesi senai de São José, cursando o segundo ano do ensino médio (desenvolvimento de sistemas).
 
 👨‍💻Pretendo trabalhar em programação
 

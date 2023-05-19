@@ -32,7 +32,11 @@ https://www.instagram.com/vinicius_knabben14/
 
 🎓inglês básico.
 
-💾Meu G-mail do colégio: vinicius_andrade3@estudante.sesisenai.org.br
+📧Meu G-mail do colégio: vinicius_andrade3@estudante.sesisenai.org.br
+
+📚 Portfólio: 
+
+https://sites.google.com/estudante.sesisenai.org.br/vinciusknabbenandrade/p%C3%A1gina-inicial
 
 💻estou aprendendo:
 

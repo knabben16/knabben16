@@ -14,7 +14,9 @@
 
 👨‍💻Pretendo trabalhar em programação
 
-👨‍💻Eu tenho certificado no curso Alura: 
+👨‍💻Meus certificado no curso Alura: 
+
+https://cursos.alura.com.br/certificate/b30d3519-4537-4392-ac17-b54032ce706b
 
 https://cursos.alura.com.br/certificate/1496e0a7-eba3-4d39-a205-89b01f80461a
 

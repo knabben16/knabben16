@@ -66,7 +66,9 @@ https://www.instagram.com/vinicius_knabben14/
 
 🎓inglês básico.
 
-📧Meu G-mail do colégio: vinicius_andrade3@estudante.sesisenai.org.br
+📧Meu G-mail do colégio: 
+
+vinicius_andrade3@estudante.sesisenai.org.br
 
 📚 Portfólio:
 

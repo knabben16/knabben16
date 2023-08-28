@@ -14,6 +14,9 @@
 
 👨‍💻Pretendo trabalhar em programação
 
+👨‍💻 meu perfil no alura:
+https://cursos.alura.com.br/user/viniciusknabben14
+
 👨‍💻Meus certificado no curso Alura: 
 
 💻Arquitetura de computadores: por trás de como seu programa funciona:

@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-knabben16)
 
-🎮Meu nome é Vinícius Knabben
+😎Meu nome é Vinícius Knabben Andrade
 
 🎈Tenho 16 anos.
 

@@ -20,7 +20,7 @@ https://cursos.alura.com.br/user/viniciusknabben14
 
 📄Meus certificado no curso Alura: 
 
-💻Arquitetura de computadores: por trás de como seu programa funciona:
+⌨ Arquitetura de computadores: por trás de como seu programa funciona:
 
 https://cursos.alura.com.br/certificate/d12bb0a8-532a-4976-a53e-4dd28d3f6e0e?lang=pt_BR
 
@@ -78,7 +78,7 @@ viniciusknabben14@gmail.com
 
 https://sites.google.com/estudante.sesisenai.org.br/vinciusknabbenandrade/p%C3%A1gina-inicial
 
-💻estou aprendendo:
+👨‍🎓estou aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="40"/>
 

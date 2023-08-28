@@ -18,7 +18,7 @@
 
 https://cursos.alura.com.br/user/viniciusknabben14
 
-👨‍💻Meus certificado no curso Alura: 
+📄Meus certificado no curso Alura: 
 
 💻Arquitetura de computadores: por trás de como seu programa funciona:
 
@@ -69,6 +69,10 @@ https://www.instagram.com/vinicius_knabben14/
 📧Meu G-mail do colégio: 
 
 vinicius_andrade3@estudante.sesisenai.org.br
+
+📧Meu G-mail do pessoal:
+
+viniciusknabben14@gmail.com
 
 📚 Portfólio:
 

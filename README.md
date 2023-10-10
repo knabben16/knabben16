@@ -60,6 +60,10 @@ https://cursos.alura.com.br/certificate/eb4385e7-6834-45ac-8f89-3a36005240d3?lan
 
 https://cursos.alura.com.br/certificate/9111e3e3-5d8e-4b88-a2c7-86a5e9ea5642?lang=pt_BR
 
+🤓👆Html5 e CSS:
+
+https://cursos.alura.com.br/certificate/17ee413c-95d0-42e9-b6bf-39db617d4599?lang=pt_BR
+
 📝meu instagram:
 
 https://www.instagram.com/vinicius_knabben14/

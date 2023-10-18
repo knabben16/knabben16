@@ -38,11 +38,11 @@ https://cursos.alura.com.br/certificate/7f684164-7c85-4605-b1bb-ab58e282fe36?lan
 https://cursos.alura.com.br/certificate/15e1d985-b45a-4a91-a172-fe95cb711e40?lang=pt_BR
 
 
-💻JAVASCRIPT:
+📜JAVASCRIPT:
 
 https://cursos.alura.com.br/certificate/b30d3519-4537-4392-ac17-b54032ce706b?lang=pt_BR
 
-💻NODE.JS:
+📰NODE.JS:
 
 https://cursos.alura.com.br/certificate/07d92170-0d46-4103-bb95-84b02e97020b?lang=pt_BR
 

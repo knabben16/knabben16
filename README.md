@@ -64,6 +64,8 @@ https://cursos.alura.com.br/certificate/9111e3e3-5d8e-4b88-a2c7-86a5e9ea5642?lan
 
 https://cursos.alura.com.br/certificate/17ee413c-95d0-42e9-b6bf-39db617d4599?lang=pt_BR
 
+https://cursos.alura.com.br/certificate/6796b78f-8654-4c40-832f-81c7beec0597?lang=pt_BR
+
 📝meu instagram:
 
 https://www.instagram.com/vinicius_knabben14/
